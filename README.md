@@ -22,7 +22,7 @@
    <a href="https://www.linkedin.com/in/quadrified"><img src="https://github.com/Quadrified/Quadrified/blob/master/linkedin.svg" width="5%" height="5%" alt="LinkedIn"></a> &nbsp; &nbsp;
    <a href="https://twitter.com/quadrified"><img src="https://github.com/Quadrified/Quadrified/blob/master/twitter.svg" width="5%" height="5%" alt="Twitter"></a> &nbsp; &nbsp;
    <a href="https://instagram.com/quadrified"><img src="https://github.com/Quadrified/Quadrified/blob/master/instagram.svg" width="5%" height="5%" alt="Instagram"></a> &nbsp; &nbsp;
-   <a href="https://api.whatsapp.com/send?phone=7330770559"><img src="https://github.com/Quadrified/Quadrified/blob/master/whatsapp.svg" width="5%" height="5%" alt="Whatsapp"></a> &nbsp; &nbsp;
+   <a href="https://api.whatsapp.com/send?phone=+917330770559"><img src="https://github.com/Quadrified/Quadrified/blob/master/whatsapp.svg" width="5%" height="5%" alt="Whatsapp"></a> &nbsp; &nbsp;
 </p>
 
 <br>
