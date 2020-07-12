@@ -15,7 +15,7 @@
 <br><br>
 
 <p align="center"> 
-  Let's be social 📫
+  Let's be social <img src="https://github.com/Quadrified/Quadrified/blob/master/Message.svg" width="5%" height="5%" alt="Message">
 </p>
 
 <p align="center">
