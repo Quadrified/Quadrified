@@ -15,7 +15,7 @@
 <br><br>
 
 <p align="center"> 
-  Let's be social <img src="https://github.com/Quadrified/Quadrified/blob/master/chat_bubble.svg" width="5%" height="5%" alt="Message" align="center">
+  Let's be social :incoming_envelope:
 </p>
 
 <p align="center">
