@@ -12,8 +12,11 @@
   </samp>
 </p>
 
+<br><br>
 
-<p> Let's be social 📫 </p>
+<p align="center"> 
+  Let's be social 📫
+</p>
 
 <p align="center">
    <a href="https://www.linkedin.com/in/quadrified"><img src="https://github.com/Quadrified/Quadrified/blob/master/linkedin.svg" width="3%" height="3%" alt="LinkedIn"></a> &nbsp; &nbsp;
@@ -22,7 +25,7 @@
    <a href="https://api.whatsapp.com/send?phone=7330770559"><img src="https://github.com/Quadrified/Quadrified/blob/master/whatsapp.svg" width="3%" height="3%" alt="Whatsapp"></a> &nbsp; &nbsp;
 </p>
 
-<br><br>
+<br>
 
 <p align="center">
   Made with :blue_heart: &nbsp;using GitHub Markdown &nbsp;:arrow_down:
