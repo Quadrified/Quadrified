@@ -8,6 +8,8 @@
     <br><br>
     I believe in a world where Milkshakes can solve any and all problems :grin:
     <br><br>
+    Open to anything under the stars :sparkles:
+    <br><br>
     P.S. I do know that HTML is not a programming language! :v:
   </samp>
 </p>
@@ -15,7 +17,7 @@
 <br>
 
 <p align="center"> 
-  <i> Let's connect and chat! Open to anything under the stars :incoming_envelope: </i>
+  <i> Let's connect and chat! :incoming_envelope: </i>
 </p>
 
 <p align="center">
