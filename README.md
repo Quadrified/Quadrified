@@ -25,7 +25,7 @@
    <a href="https://api.whatsapp.com/send?phone=+917330770559"><img src="https://github.com/Quadrified/Quadrified/blob/master/whatsapp.svg" width="5%" height="5%" alt="Whatsapp"></a> &nbsp; &nbsp;
 </p>
 
-<br><br>
+<br>
 
 <p align="center">
   Made with :blue_heart: &nbsp;using GitHub Markdown &nbsp;:arrow_down:
