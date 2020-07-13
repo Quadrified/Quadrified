@@ -30,6 +30,7 @@
 <p align="center">
   Made with :blue_heart: &nbsp;using GitHub Markdown &nbsp;:arrow_down:
 </p>
+
 <!--
 **Quadrified/Quadrified** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
