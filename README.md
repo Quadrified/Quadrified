@@ -15,7 +15,7 @@
 <br><br>
 
 <p align="center"> 
-  Let's be social :incoming_envelope:
+  <i> Let's connect and chat! Open to anything under the stars :incoming_envelope: </i>
 </p>
 
 <p align="center">
@@ -30,6 +30,10 @@
 <p align="center">
   Made with :blue_heart: &nbsp;using GitHub Markdown &nbsp;:arrow_down:
 </p>
+
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=quadrified.visitor-badge" alt="Visitors">
+</p>  
 
 <!--
 **Quadrified/Quadrified** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
