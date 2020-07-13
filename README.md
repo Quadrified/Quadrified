@@ -12,7 +12,7 @@
   </samp>
 </p>
 
-<br><br>
+<br>
 
 <p align="center"> 
   <i> Let's connect and chat! Open to anything under the stars :incoming_envelope: </i>
