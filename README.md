@@ -14,7 +14,7 @@
 
 <br>
 
-<p align="center"> 
+<p align="center">
   <i> Let's connect and chat! :incoming_envelope: </i>
 </p>
 
