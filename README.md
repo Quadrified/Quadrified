@@ -15,7 +15,7 @@
 <br>
 
 <details>
-  <summary> <b> More about me! </b> </summary>
+  <summary> <b> Things to know about me! </b> </summary>
   
   <br>
   
@@ -47,7 +47,7 @@
   - Improving my React Native skills. 
   - Learning to develop Moile-first web-apps.
   - Learning React with Redux.
-  - Adding databases to my skill-set.
+  - Adding databases to my skill set.
   
 ----
 
@@ -62,6 +62,7 @@
   <a href="https://instagram.com/quadrified"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/instagram.svg" width="5%" height="5%" alt="Instagram"></a> &nbsp; &nbsp;
    <a href="https://twitter.com/quadrified"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/twitter.svg" width="5%" height="5%" alt="Twitter"></a> &nbsp; &nbsp;
    <a href="https://api.whatsapp.com/send?phone=+917330770559"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/whatsapp.svg" width="5%" height="5%" alt="Whatsapp"></a> &nbsp; &nbsp;
+  <a href="https://t.me/quadrified"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/telegram.svg" width="5%" height="5%" alt="Telegram"></a> &nbsp; &nbsp;
 </p>
 
 <p align="center">
@@ -73,10 +74,6 @@
 <p align="center">
   Made with :blue_heart: &nbsp;using GitHub Markdown &nbsp;:arrow_down:
 </p>
-
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=quadrified.visitor-badge" alt="Visitors">
-</p>  
 
 <!--
 **Quadrified/Quadrified** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
