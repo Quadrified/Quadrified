@@ -45,7 +45,7 @@
 ### - I'm currently...
 
   - Improving my React Native skills. 
-  - Learning to develop Moile-first web-apps.
+  - Learning to develop Mobile-first web-apps.
   - Learning React with Redux.
   - Adding databases to my skill set.
   
