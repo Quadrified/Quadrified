@@ -25,7 +25,7 @@
 
 *************
 
-### 🔧 Languages and Tools...
+### 🔧  Languages and Tools...
 
 <p align="center">
 
@@ -44,7 +44,7 @@
 ----
 </p>
 
-### 👨🏻‍💻 I'm currently...
+### 👨🏻‍💻  I'm currently...
 
   - Improving my React Native skills. 
   - Learning to develop Mobile-first web-apps.
