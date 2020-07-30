@@ -1,6 +1,8 @@
+<!-- The 'Hello World gif -->
 <p align="center">
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
   <br><br>
+  <!-- The Opening sentences -->
   <samp>
     I'm Omer Quadri <img src="https://raw.githubusercontent.com/Quadrified/Quadrified/master/assets/wave.gif" width="30px" />
     <br><br>
@@ -12,19 +14,18 @@
   </samp>
 </p>
 
-<br>
-
-<!-- <details>
-  <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary> 
-  <br> -->
+<!-- GitHub Stats -->
   
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=quadrified&show_icons=true&include_all_commits=true&theme=tokyonight" />
-  
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=quadrified&layout=compact&theme=tokyonight" />
+<a href="https://github.com/Quadrified/Quadrified">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=quadrified&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Quadrified's stats" /> 
+</a>
+<a href="https://github.com/Quadrified/Quadrified">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=quadrified&layout=compact&theme=tokyonight" alt="Quadrified's stats" />
+</a>
 
 *************
 
-### Languages and Tools...
+### 🔧 Languages and Tools...
 
 <p align="center">
 
@@ -43,7 +44,7 @@
 ----
 </p>
 
-### I'm currently...
+### 👨🏻‍💻 I'm currently...
 
   - Improving my React Native skills. 
   - Learning to develop Mobile-first web-apps.
@@ -52,7 +53,7 @@
   
 ----
 
-<!-- </details> -->
+<!-- Social Media links -->
 
 <p align="center"> 
   <i> Let's connect and chat! :incoming_envelope: </i>
