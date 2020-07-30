@@ -25,8 +25,8 @@
 
 *************
 
-### 🔧  Languages and Tools...
-
+### 🔧 &nbsp; Languages and Tools...
+🔧 Technologies & Tools
 <p align="center">
 
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
@@ -44,7 +44,7 @@
 ----
 </p>
 
-### 👨🏻‍💻  I'm currently...
+### 👨🏻‍💻 &nbsp; I'm currently...
 
   - Improving my React Native skills. 
   - Learning to develop Mobile-first web-apps.
