@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
   <br><br>
   <samp>
-    I'm Omer Quadri :wave:
+    I'm Omer Quadri <img src="https://raw.githubusercontent.com/Quadrified/Quadrified/master/assets/wave.gif" width="30px" />
     <br><br>
     I work as a Mobile :iphone: and Web :globe_with_meridians: developer!
     <br><br>
@@ -14,12 +14,13 @@
 
 <br>
 
-<details>
-  <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
+<!-- <details>
+  <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary> 
+  <br> -->
   
-  <br>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=quadrified&show_icons=true&include_all_commits=true&theme=tokyonight" />
   
-  [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=quadrified&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=quadrified&layout=compact&theme=tokyonight" />
 
 *************
 
@@ -51,7 +52,7 @@
   
 ----
 
-</details>
+<!-- </details> -->
 
 <p align="center"> 
   <i> Let's connect and chat! :incoming_envelope: </i>
