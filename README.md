@@ -25,8 +25,7 @@
 
 *************
 
-### 🔧 &nbsp; Languages and Tools...
-🔧 Technologies & Tools
+### 🔧 &nbsp; Technologies & Tools...
 <p align="center">
 
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
@@ -41,8 +40,9 @@
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/powershell.svg" alt="powershell" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/misc/mobile.svg" alt="mobile_development" style="vertical-align:top; margin:4px">
 
-----
 </p>
+
+----
 
 ### 👨🏻‍💻 &nbsp; I'm currently...
 
