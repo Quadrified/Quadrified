@@ -24,7 +24,7 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=quadrified&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Quadrified's stats" /> 
 </a>
 
-<br>
+<br> <br>
 <!-- GitHub Trophies -->
 
 <details align="center">
@@ -36,7 +36,6 @@
   </a>
 </p>
 </details>
-<br>
 
 *************
 
