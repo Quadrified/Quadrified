@@ -27,7 +27,7 @@
 <br>
 <!-- GitHub Trophies -->
 
-<details align="center">
+<details align="left">
   <summary>GitHub Trophies 🏆</summary>
   <br>
 <p align="center">
