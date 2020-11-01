@@ -24,6 +24,18 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=quadrified&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Quadrified's stats" /> 
 </a>
 
+<br>
+<!-- GitHub Trophies -->
+
+<details align="center">
+  <summary>GitHub Trophies 🏆</summary>
+  <br>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=quadrified&theme=gruvbox&column=3&margin-w=15&margin-h=15"/>
+  </a>
+</p>
+</details>
 
 *************
 
