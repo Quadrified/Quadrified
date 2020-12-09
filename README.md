@@ -1,8 +1,8 @@
-<!-- The 'Hello World gif -->
+<!-- The Hello World gif -->
 <p align="center">
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="170px">
   <br><br>
-  <!-- The Opening sentences -->
+  <!-- The opening sentences -->
   <samp>
     I'm Omer Quadri <img src="https://raw.githubusercontent.com/Quadrified/Quadrified/master/assets/wave.gif" width="30px" />
     <br><br>
