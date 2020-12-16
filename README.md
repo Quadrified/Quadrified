@@ -39,7 +39,7 @@
 </p>
 </details>
 
-*************
+************
 
 ### 🔧 &nbsp; Technologies & Tools...
 <p align="center">
