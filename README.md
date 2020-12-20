@@ -66,7 +66,7 @@
 
   - Improving my React Native skills. 
   - Learning to develop Mobile-first web-apps.
-  - Learning React with Redux.
+  - Learning React with Redux with React and React Native.
   - Adding database knowledge to my skill set.
   
 ----
