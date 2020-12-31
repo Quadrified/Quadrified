@@ -30,7 +30,7 @@
 
 <!-- GitHub Trophies -->
 
-<details align="left">
+<!-- <details align="left">
   <summary>GitHub Trophies 🏆</summary>
   <br>
 <p align="center">
@@ -38,7 +38,9 @@
     <img src="https://github-profile-trophy.vercel.app/?username=quadrified&theme=gruvbox&column=3&margin-w=15&margin-h=15"/>
   </a>
 </p>
-</details>
+</details> -->
+
+
 
 ************
 
