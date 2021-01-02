@@ -5,6 +5,7 @@
   <br><br>
   
   <!-- The Opening -->
+  
   <samp>
     I'm Omer Quadri <img src="https://raw.githubusercontent.com/Quadrified/Quadrified/master/assets/wave.gif" width="30px" />
     <br><br>
