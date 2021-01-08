@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="170px">
   <br><br>
   
-  <!-- The Opening limes -->
+  <!-- The Opening lines -->
   
   <samp>
     I'm Omer Quadri <img src="https://raw.githubusercontent.com/Quadrified/Quadrified/master/assets/wave.gif" width="30px" />
