@@ -1,4 +1,4 @@
-<!-- The Hello World -->
+<!-- The Hello World Gif -->
 
 <p align="center">
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="170px">
