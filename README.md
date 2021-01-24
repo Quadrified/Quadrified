@@ -17,7 +17,7 @@
   </samp>
 </p>
 
-<!-- GitHub Stats -->
+<!-- GitHub Statistics -->
 
 <a href="https://github.com/Quadrified/Quadrified">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=quadrified&layout=compact&theme=tokyonight" alt="Quadrified's stats" />
