@@ -73,7 +73,7 @@
   
 ----
 
-<!-- Social Media links -->
+<!-- Social Media Links -->
 
 <p align="center"> 
   <i> Let's connect and chat! :incoming_envelope: </i>
