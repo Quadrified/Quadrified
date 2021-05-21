@@ -68,10 +68,11 @@
 
 ### 👨🏻‍💻 &nbsp; I'm currently...
 
-  - Improving my React Native skills. 
+  - Improving my React Native skills.
   - Learning to develop Mobile-first web-apps.
   - Learning Redux with React and React Native.
-  - Adding database knowledge to my skill set.
+  - Adding databases to my skill set.
+  - Aspiring to learn about the backend technologies
   
 ----
 
