@@ -9,7 +9,7 @@
   <samp>
     I'm Omer Quadri <img src="https://raw.githubusercontent.com/Quadrified/Quadrified/master/assets/wave.gif" width="30px" />
     <br><br>
-    I work as a Mobile :iphone: and Web :globe_with_meridians: developer!
+    I work as a Mobile :iphone: developer!
     <br><br>
     I believe in a world where Milkshakes can solve any, and all problems :grin:
     <br><br>
