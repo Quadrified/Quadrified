@@ -18,16 +18,18 @@
 </p>
 
 <!-- GitHub Statistics -->
-
+<div>
 <a href="https://github.com/Quadrified/Quadrified">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=quadrified&layout=compact&theme=tokyonight" alt="Quadrified's stats" />
 </a>
 
-<br> <p>                                                                                </p>
-
 <a href="https://github.com/Quadrified/Quadrified">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=quadrified&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Quadrified's stats" /> 
 </a>
+
+</div>
+
+<br>
 
 *************
 
@@ -61,16 +63,6 @@
 
 </p>
 
-----
-
-### 👨🏻‍💻 &nbsp; I'm currently...
-
-  - Improving my React Native skills.
-  - Learning to develop Mobile-first web-apps.
-  - Learning Redux with React and React Native.
-  - Adding databases to my skill set.
-  - Aspiring to learn about the backend technologies
-  
 ----
 
 <!-- Social Media Links -->
