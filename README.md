@@ -1,93 +1,21 @@
-<!-- The Hello World gif -->
 
-<p align="center">
-  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="170px">
-  <br><br>
-  
-  <!-- The Opening Phrases -->
-  
-  <samp>
-    I'm Omer Quadri <img src="https://raw.githubusercontent.com/Quadrified/Quadrified/master/assets/wave.gif" width="30px" />
-    <br><br>
-    I work as a Mobile :iphone: developer!
-    <br><br>
-    I believe in a world where Milkshakes can solve any, and all problems :grin:
-    <br><br>
-    P.S. I do know that HTML is not a programming language!! :v:
-  </samp>
-</p>
+# 💻 Tech Stack:
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white) ![Invision](https://img.shields.io/badge/invision-FF3366?style=for-the-badge&logo=invision&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Quadrified&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Quadrified&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Quadrified&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- GitHub Statistics -->
-<div>
-<a href="https://github.com/Quadrified/Quadrified">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=quadrified&layout=compact&theme=tokyonight" alt="Quadrified's stats" />
-</a>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Quadrified&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<a href="https://github.com/Quadrified/Quadrified">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=quadrified&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Quadrified's stats" /> 
-</a>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Quadrified&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<br>
+---
+[![](https://visitcount.itsvg.in/api?id=Quadrified&icon=0&color=0)](https://visitcount.itsvg.in)
 
-*************
-
-<!-- GitHub Trophies -->
-
-<details align="left">
-  <summary>GitHub Trophies 🏆</summary>
-  <br>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=quadrified&theme=gruvbox&column=3&margin-w=15&margin-h=15"/>
-  </a>
-</p>
-</details>
-
-
-************
-
-### 🔧 &nbsp; Technologies & Tools...
-<p align="center">
-
-  <!-- For more icons like these follow : https://github.com/MikeCodesDotNET/ColoredBadges -->
-
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/%20reactnative.svg" alt="react" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/powershell.svg" alt="powershell" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/misc/mobile.svg" alt="mobile_development" style="vertical-align:top; margin:4px">
-
-</p>
-
-----
-
-<!-- Social Media Links -->
-
-<p align="center"> 
-  <i> Let's connect and chat! :incoming_envelope: </i>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/quadrified"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/linkedin-round.svg" width="35px" alt="LinkedIn"></a> &nbsp; &nbsp;
-  <a href="https://instagram.com/quadrified"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/instagram-round.svg" width="35px" alt="Instagram"></a> &nbsp; &nbsp;
-  <a href="https://twitter.com/quadrified"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/twitter-round.svg" width="35px" alt="Twitter">     </a> &nbsp; &nbsp;
-  <a href="https://api.whatsapp.com/send?phone=+917330770559"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/whatsapp-round.svg" width="35px" alt="Whatsapp"></a> &nbsp; &nbsp;
-  <a href="https://t.me/quadrified"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/social_media_svgs/telegram-round.svg" width="35px" alt="Telegram"></a> &nbsp; &nbsp;
-</p>
-
-<p align="center">
-  <i> Open to anything under the stars :sparkles: </i>
-</p>
-
-<br>
-
-<p align="center">
-  Made with :blue_heart: &nbsp;using GitHub Markdown &nbsp;:arrow_down:
-</p>
-
-<!---->
-<!---->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
